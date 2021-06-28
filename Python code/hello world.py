@@ -1,0 +1,10 @@
+name="nilesh"
+age=20
+marks=87
+a,b,c=40,50,60
+print("name:",name)
+print("age:",age)
+print("Marks:",marks)
+print("a",a)
+print("b",b)
+print("c",c)
